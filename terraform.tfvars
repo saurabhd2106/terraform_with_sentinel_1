@@ -1,5 +1,5 @@
 
-
+resource_group_name = "test-with-sentinel"
 location          = "West Europe"
 tags              = { "env" : "production" }
 vnet_name         = "myvnet-saurabh"
